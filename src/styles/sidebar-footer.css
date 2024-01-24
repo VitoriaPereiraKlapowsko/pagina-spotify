@@ -18,8 +18,8 @@ body {
     padding: 16px 0 0 16px;
 }
 
-.sidebar__navigation .logo {
-    background-color: #121212;
+.logo {
+    background: #121212;
     display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px;
@@ -79,8 +79,9 @@ body {
 
 .library .library__button .fa {
     font-size: 20px;
-    margin-right: 10px;
     font-weight: 300;
+    color: #b3b3b3;
+    margin-right: 10px;
     padding-right: 8px;
 }
 
@@ -97,7 +98,7 @@ body {
     color: #b3b3b3;
     font-weight: 600;
     font-size: 14px;
-    margin: 8px 0px;
+    margin: 8px 0;
     padding: 16px 20px;
     border-radius: 10px;
 }
@@ -109,7 +110,7 @@ body {
 
 .section-playlist__content .text {
     padding-bottom: 14px;
-    color: #fff;
+    color: #FFF;
 }
 
 .section-playlist__content .title {
@@ -124,7 +125,7 @@ body {
 .section-playlist__content .section-playlist__button {
     display: flex;
     justify-content: center;
-    background-color: #fff;
+    background-color: #FFF;
     color: #000;
     border-radius: 20px;
     font-size: 12px;
@@ -133,7 +134,7 @@ body {
     text-transform: none;
     padding: 10px;
     margin-top: 12px;
-    border: 0px;
+    border: 0;
     width: 113px;
 }
 
@@ -156,7 +157,7 @@ body {
     align-items: center;
     background-color: transparent;
     border: 1px solid #878787;
-    color: #fff;
+    color: #FFF;
     font-weight: bold;
     cursor: pointer;
     width: 170px;

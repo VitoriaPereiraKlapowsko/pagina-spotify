@@ -1,3 +1,5 @@
-:root{ /*raiz onde podemos pegar os estilos de uma vez só, declaramos variáveis aqui*/
+:root{ /*Raiz onde podemos pegar os estilos de uma vez só, declaramos variáveis aqui*/
     --font-dm-sans: "DM Sans", sans-serif;
+    --bg-icon:#131313;
+    --bg-arrow-color:rgba(0,0,0,7)
 }
