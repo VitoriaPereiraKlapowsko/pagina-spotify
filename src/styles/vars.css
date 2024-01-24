@@ -1,0 +1,3 @@
+:root{ /*raiz onde podemos pegar os estilos de uma vez só, declaramos variáveis aqui*/
+    --font-dm-sans: "DM Sans", sans-serif;
+}
