@@ -1,0 +1,5 @@
+@media screen and (max-width: 1015px) {
+    .offer__list-item { /*É responsável pela parte do grid*/
+        grid-template-columns: 1fr 1fr; /*Faz com que apareçam 2 cards na tela*/
+    }
+}
