@@ -29,6 +29,5 @@ document.addEventListener('input', function() {  /* Serve quando o usuário for 
         resultArtists.classList.remove('hidden');
         return;
     }
-
     requestApi(searchTerm);
 })
